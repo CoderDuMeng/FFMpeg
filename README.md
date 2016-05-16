@@ -6,7 +6,7 @@
 
 3.一般`FFmpeg`可以和`SDL` 全拼 `Simple DirectMedia Layer` 一起开发  
 
-4. `SDL` 地址 http://www.libsdl.org/index.php  
+4.`SDL` 地址 http://www.libsdl.org/index.php  
 
  
 
