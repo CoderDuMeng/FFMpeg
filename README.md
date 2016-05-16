@@ -4,7 +4,7 @@
 
 2.`bin`文件夹里面是`FFmpeg`的执行文件 可以在终端操作    
 
-3.一般`FFmpeg`可以和`SDL` 配合 `Simple DirectMedia Layer` 一起开发  
+3.一般`FFmpeg`可以和`SDL` == `Simple DirectMedia Layer` 一起开发  
 
 4.`SDL` 地址 http://www.libsdl.org/index.php  
 
